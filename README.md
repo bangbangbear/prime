@@ -1,2 +1,3 @@
 # prime
-A project related to primality test, integer factorization. 
+
+A project related to primality test, integer factorization, etc. 
